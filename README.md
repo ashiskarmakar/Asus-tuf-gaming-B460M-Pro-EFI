@@ -1,2 +1,9 @@
 # ASUS-TUF-GAMING-B460M-PRO-HACKINTOSH
 EFI FOR ASUS TUF GAMING B460M PRO
+
+
+Opencore: 0.8.8
+Version: macOS Ventura 13.2
+Motherboard: ASUS TUF Gaming B460M PRO
+Graphics: RX5500XT
+CPU: Intel i5 10400
